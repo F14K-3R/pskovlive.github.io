@@ -363,9 +363,9 @@ figure:hover p{
 .afisha_title h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
-    font-size: 165px;
+    font-size: 110px;
     color: white;
-    line-height: 165px;
+    line-height: 110px;
     margin-bottom: 0;
 }
 
@@ -424,7 +424,7 @@ figure:hover p{
 .afisha_popular_events_title h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
-    font-size: 70px;
+    font-size: 42px;
     color: black;
     margin-bottom: 0;
 }
@@ -685,9 +685,9 @@ figure:hover p{
 .menu_title h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
-    font-size: 165px;
+    font-size: 110px;
     color: white;
-    line-height: 165px;
+    line-height: 110px;
     margin-bottom: 0;
 }
 
@@ -733,7 +733,7 @@ figure:hover p{
 .menu_fastfood_title h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
-    font-size: 60px;
+    font-size: 42px;
     color: black;
     margin-bottom: 0;
 }
@@ -815,7 +815,7 @@ figure:hover p{
 .menu_fastfood_news_title h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
-    font-size: 64px;
+    font-size: 42px;
     color: #1f5f3c;
     margin-bottom: 0;
 }
