@@ -1,0 +1,286 @@
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+    .slide_shell_date_alignment {
+       top:20px; 
+    }
+    
+    .carousel_slide_description {
+        font-size: 10px;
+        left: 24px;
+        width: 190px;
+        bottom: 40px;
+    }
+    
+    .carousel-control-next {
+        margin-right: -30px;
+        margin-top: 70px;
+        width: 65px;
+        height: 70px;
+    }
+
+    .carousel-control-prev {
+        margin-right: -30px;
+        margin-top: 70px;
+        width: 65px;
+        height: 70px;
+    }
+    
+    .beauty_p_properties p{
+        left: 150px;
+    }
+    
+    .afisha_navigation_links a{
+        font-size: 18px
+    }
+    
+    .afisha_upcoming_events_title_alignment {
+        margin-top: 5%;        
+    }
+    
+    /*.afisha_cinema_ticket {
+        position: absolute;
+        top: 10px;
+        left: 150px;
+    }*/
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    .slide_shell_date_alignment {
+       top: 0px; 
+    }
+    .carousel_slide_description {
+        font-size: 10px;
+        left: 24px;
+        width: 130px;
+        bottom: 40px;        
+    }
+    
+    .carousel-control-next {
+        margin-right: -30px;
+        margin-top: 40px;
+        width: 65px;
+        height: 70px;
+    }
+    
+    .carousel-control-prev {
+        margin-right: -30px;
+        margin-top: 40px;
+        width: 65px;
+        height: 70px;
+    }
+    
+    .tourism_p_properties p{
+        left: 30px;
+        font-size: 50px;
+    }
+    
+    .beauty_p_properties p{
+        left: 60px;
+    }
+    .weddings_p_properties p{
+        left: 40px;
+    }
+    
+    .menu_p_properties p{
+        left: 20px;
+        font-size: 50px;
+    }
+    
+    /*.afisha_cinema_ticket {
+        position: absolute;
+        top: 10px;
+        left: 210px;
+    }*/
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .carousel_slide_description {
+        font-size: 5px;
+        left: 24px;
+        width: 70px;         
+    } 
+    
+    .carousel-control-next {
+        margin-right: -30px;
+        margin-top: 15px;
+        width: 65px;
+        height: 70px;
+    }
+    
+    .carousel-control-prev {
+        margin-right: -30px;
+        margin-top: 15px;
+        width: 65px;
+        height: 70px;
+    }
+    
+    .beauty_p_properties p{
+        left: 40px;
+    }
+    
+    .weddings_p_properties p{
+        left: 30px;
+        font-size: 35px;
+    }
+    
+    .photo_p_properties p{
+        left: 20px;
+        font-size: 50px;
+    }
+
+    .menu_p_properties p{
+        left: 20px;
+        font-size: 60px;
+    }
+    
+    .afisha_title h1{
+        font-size: 115px;
+        text-align: center;
+    }
+
+    .menu_title h1{
+        font-size: 115px;
+        text-align: center;
+    }
+    
+    .authorization_vk_button_alignment{
+        justify-content: center;
+        padding-bottom: 10%;
+    }
+    
+    .afisha_popular_events_title_alignment {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    
+    .afisha_popular_events_title h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .afisha_left_col_alignment {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    
+    .afisha_calendar_title h1{
+        text-align: center;
+    }
+    
+    .afisha_calendar {
+        justify-content: center;
+    }
+    
+    .afisha_upcoming_events_title_alignment {
+        margin-top: 0;
+        margin-bottom: 10%;
+    }
+    
+    .afisha_upcoming_events_title h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .afisha_news_title h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .afisha_news_list p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    
+    /*.afisha_cinema_ticket {
+        position: absolute;
+        top: 10px;
+        left: 360px;
+    }*/
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .carousel_slide_description {
+        font-size: 2px;
+        left: 24px;
+        width: 100px;
+        bottom: 0px; 
+    }
+    
+    .carousel-control-next {
+        margin-right: -30px;
+        margin-top: 10px;
+        width: 65px;
+        height: 70px;
+    }
+
+    .carousel-control-prev {
+        margin-right: -30px;
+        margin-top: 10px;
+        width: 65px;
+        height: 70px;
+    }
+    
+    .afisha_title h1{
+        font-size: 80px;
+        text-align: center;
+    }
+
+    .menu_title h1{
+        font-size: 80px;
+        text-align: center;
+    }
+    
+    .authorization_vk_button_alignment{
+        justify-content: center;
+        padding-bottom: 10%;
+    }
+    
+    .afisha_popular_events_title_alignment {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    
+    .afisha_popular_events_title h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .afisha_left_col_alignment {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    
+    .afisha_calendar_title h1{
+        text-align: center;
+    }
+    
+    .afisha_upcoming_events_title_alignment {
+        margin-top: 0;
+        margin-bottom: 10%;
+    }
+    
+    .afisha_upcoming_events_title h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .afisha_news_title h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .afisha_news_list p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    
+    /*.afisha_cinema_ticket {
+        position: absolute;
+        top: 10px;
+        left: 250px;
+    }*/
+}

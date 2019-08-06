@@ -1,0 +1,574 @@
+.wrapper {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.header_sign_in_button_alignment {
+    padding-top: 20px;
+}
+
+.signin_button {
+    border-radius: 50px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.navigation {
+    text-align: center;
+    background-color: #4caeff;
+}
+
+.navigation a{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
+
+.navigation li{
+    float: none;
+    display: inlibe-block;
+}
+
+.news {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.logotype {
+    width: 312px;
+    height: 73px;
+}
+
+.padding_border {
+    padding: 20px 0px;
+}
+
+
+.search_bar {
+    width: 80%;
+    margin: 0px;
+}
+
+.magnifier {
+    padding-right: 60px;
+    background: url(../img/magnifier.png) no-repeat 95% 50%;
+}
+
+.search_bar input{
+    border-radius:50px;
+    border: solid black 1px;
+    height: 50px;
+}
+
+.title h1{
+    margin-left: 30px;
+    padding: 15px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.vidgets {
+    width: 100%;
+}
+
+.second_news_text_properties {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+.time {
+    font-size: 12px;
+    color: dodgerblue;
+}
+
+.today {
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 13px;
+}
+
+.time_today {
+    font-size: 10px;
+    color: dodgerblue;
+}
+
+.allNews {
+    font-weight: bold;
+    font-size: 12px;
+    color: dodgerblue;
+    text-decoration: underline;
+}
+
+.allNews:hover{
+    font-weight: bold;
+    font-size: 12px;
+    color: dodgerblue;
+    text-decoration: underline;
+}
+
+.allNews:visited{
+    color: dodgerblue;
+    text-decoration: underline;
+}
+
+.nav.list.nav-pills {
+    font-size: 10px;
+    border: solid #4286f4 1px;
+}
+
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+.nav-pills .nav-link{
+    border-radius: 0px;
+    color: black;
+    padding: 10px 3px 10px 3px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #77dbff;
+    color: black;
+}
+
+.third {
+    margin-top: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: black;
+    line-height: 13px;
+}
+
+.carousel-control-next {
+    opacity: 1;
+    margin-right: -30px;
+    margin-top: 80px;
+    width: 65px;
+    height: 70px;
+}
+
+.carousel-control-prev {
+    opacity: 1;
+    margin-left: -30px;
+    margin-top: 80px;
+    width: 65px;
+    height: 70px;
+}
+
+.carousel-control-next-icon {
+    opacity: 1;
+    width: 65px;
+    height: 70px;
+    background-image: url(../../menu/img_menu/arrowRight.png);
+}
+
+.carousel-control-prev-icon {
+	width: 65px;
+	height: 70px;
+    background-image: url(../../menu/img_menu/arrowLeft.png);
+}
+
+.menu_download_button {
+    background-color: #fff;
+    border-color: #205f3b;
+    border-radius: 50px;
+    border-width: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.menu_download_button:active {
+    color: #fff;
+    background-color: #205f3b;
+    border-color: #205f3b;
+}
+
+.menu_download_button:hover {
+    color: #fff;
+    background-color: #205f3b;
+    border-color: #205f3b;
+}
+
+.menu_download_button:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(32, 95, 59, 0.33);
+}
+
+.slide_shell_date_alignment {
+    padding: 0 0 0 0;
+    right: 0px;
+    left: 16px;
+    bottom: 205px;
+    z-index: 0;
+    width: 65px;
+}
+
+.slide_shell_date {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 11px;
+    width: 65px;
+    height: 23px;
+    padding-top: 3px; 
+    padding-left: 15px; 
+    background-color: red;
+    text-align: start;
+    vertical-align: middle;
+}
+
+.description_alignment {
+    padding: 0 0 0 0;
+    right: 0;
+    left: 24px;
+    bottom: 40px;
+    z-index: 0;
+    width: 240px;
+    text-align: start;
+}
+
+.carousel_slide_description {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+    color: white;
+}
+
+.carousel_slide_background {
+    background-color: black;
+    opacity: 0.7;
+}
+
+.more_alignment {
+    padding: 0 0 0 0;
+    right: 0;
+    left: 30px;
+    bottom: 20px;
+    z-index: 0;
+    width: 60px;
+    text-align: start; 
+}
+.more:link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.more:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.more:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.categories {
+    margin-bottom: 50px;
+}
+
+.tourism {
+    width: 325px;
+    height: 230px;
+}
+
+.tourism_p_properties p{
+    position: absolute;
+    top: 125px;
+    left: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+}
+
+.photo_p_properties p{
+    position: absolute;
+    top: 90px;
+    left: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+    line-height: 60px;
+}
+
+.beauty_p_properties p{
+    position: absolute;
+    top: 20px;
+    left: 180px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    color: white;
+    line-height: 40px;
+}
+
+.weddings_p_properties p{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    color: white;
+    line-height: 40px;
+}
+
+.menu_p_properties p{
+    position: absolute;
+    top: 375px;
+    left: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+}
+
+.photos {
+    width: 474px;
+    height: 230px;
+}
+
+.beauty {
+    width: 400px;
+    height: 230px;
+}
+
+.weddings {
+    width: 400px;
+    height: 230px;
+}
+
+.menu {
+    height: 475px;
+}
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    color: black;
+}
+
+.img_block {
+    overflow: hidden;
+}
+
+/* .th {
+    font-family: 'Roboto', sans-serif;  font-size: 18px;
+} */
+
+
+*,*:before, *:after {
+    box-sizing: border-box;
+}
+
+figure p {
+    transition: 0.2s;
+    transform: translateY(0);
+}
+
+figure:hover p{
+    transform: translateY(20px);
+}
+
+
+.authorization_vk_button_alignment {
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.authorization_vk_button {
+	font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 22px;
+    color: white;		
+    width: 283px;
+    height: 56px;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+/* GRADIENT */
+/* @media (min-width: 768px) {
+    .menu_others_gradient {
+        padding-top: 30px;
+        background: rgb(32,95,59);
+        background: linear-gradient(0deg, rgba(32,95,59,1) 0%, rgba(32,95,59,0.7343312324929971) 25%, rgba(255,255,255,0) 100%);
+        padding-bottom: 30px;
+        margin-bottom: 28px;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+} */
+
+
+.menu_others_link, .menu_others_link:hover, .menu_others_link:visited {
+    font-size: 1.25rem;
+    color: rgb(255, 255, 255)!important;
+}
+
+.menu_others_link:hover {
+    text-decoration-line: underline;
+}
+
+
+.menu_title h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 165px;
+    color: white;
+    line-height: 165px;
+    margin-bottom: 0;
+}
+
+.menu_header {
+    padding-left: 2%;
+    padding-top: 3%;
+    background: url(../img_menu/menu_background.png) no-repeat 50% 50%;
+    background-color: #205f3b;
+}
+
+.menu_rest_font_properties h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color: black;
+}
+
+.text_justify {
+    text-align: justify;
+}
+
+.img_thumb {
+    max-width: 100%;
+}
+
+.menu_rest_font_properties p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: black;
+}
+
+.menu_rest_font_properties a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+}
+
+.menu_navigation_alignment {
+    padding-top: 4%;
+    padding-left: 3%;
+    background-color: #205f3b;
+}
+
+.menu_navigation_links a{
+    padding-left: 0;
+    padding-right: 0;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    color: white;
+}
+
+.menu_navigation_links a:hover{
+    border-bottom: 5px solid white;
+}
+
+.menu_navigation_links a:active{
+    border-bottom: 5px solid white;
+}
+
+.menu_sliders_alignment {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.menu_restaurant_title_alignment {
+    margin-top: 4%;
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+
+.menu_restaurant_title h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 70px;
+    color: black;
+}
+
+.menu_restaurant_content_alignment {
+    margin-top: 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+/* .menu_restaurant_film_explain p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #5d687a;
+}
+
+.menu_restaurant_film_explain a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 13px;
+    color: black;
+    text-decoration: underline;
+} */
+
+.menu_restaurant_image {
+    position: relative;
+    display: block;
+}
+
+
+.menu_rest_menu_title h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 70px;
+    color: black;
+}
+
+.menu_menu_title_alignment {
+    margin-top: 4%;
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+
+.menu_left_col_alignment {
+    padding-top: 30px;
+}
+
+.menu_rest_explain {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #205f3b;
+}
+
+.menu_rest_row_alignment {
+    margin-top: 70px;
+}
